@@ -1,0 +1,16 @@
+#list1 .form-control[b-p7o26yguue] {
+    border-color: transparent;
+}
+
+    #list1 .form-control:focus[b-p7o26yguue] {
+        border-color: transparent;
+        box-shadow: none;
+    }
+
+#list1 .select-input.form-control[readonly]:not([disabled])[b-p7o26yguue] {
+    background-color: #fbfbfb;
+}
+
+.todo-toolbar .search[b-p7o26yguue]  {
+    background-color: #eff1f2;
+}

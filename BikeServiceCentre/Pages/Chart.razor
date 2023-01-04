@@ -1,0 +1,27 @@
+﻿@page "/chart"
+@using MudBlazor
+
+<h3>ItemsTakenOut vs Items</h3>
+
+<MudChart ChartType="ChartType.Bar" ChartSeries="@Series" XAxisLabels="@XAxisLabels" Width="100%" Height="350px">
+    <CustomGraphics>
+        <style>
+            .title {
+                font: italic 40px Helvetica;
+                fill: rgb(62,44,221);
+            }
+        </style>
+        <text x="105" y="70" class="title">Bar Chart!</text>
+    </CustomGraphics>
+</MudChart>
+
+@code {
+
+    public List<ChartSeries> Series = new List<ChartSeries>()
+    {
+        new ChartSeries() { Name = "Items", Data = new double[] { 40, 20, 25, 27, 46, 60, 48, 80, 15 } }
+        
+    };
+    public string[] XAxisLabels = { "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep" };
+}
+
