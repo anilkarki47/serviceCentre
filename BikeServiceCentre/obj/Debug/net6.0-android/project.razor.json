@@ -8,35 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 167174876,
+        "HashCode": 1817752710,
         "Kind": "Components.Component",
-        "Name": "BikeServiceCentre.Pages.Remove",
+        "Name": "BikeServiceCentre.Main",
         "AssemblyName": "BikeServiceCentre",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Remove"
+            "TagName": "Main"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BikeServiceCentre.Pages.Remove"
+          "Common.TypeName": "BikeServiceCentre.Main"
         }
       },
       {
-        "HashCode": 729553366,
+        "HashCode": -1770793228,
         "Kind": "Components.Component",
-        "Name": "BikeServiceCentre.Pages.Remove",
+        "Name": "BikeServiceCentre.Main",
         "AssemblyName": "BikeServiceCentre",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BikeServiceCentre.Pages.Remove"
+            "TagName": "BikeServiceCentre.Main"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BikeServiceCentre.Pages.Remove",
+          "Common.TypeName": "BikeServiceCentre.Main",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -206,39 +206,6 @@
         }
       },
       {
-        "HashCode": -259808774,
-        "Kind": "Components.Component",
-        "Name": "BikeServiceCentre.Pages.Items",
-        "AssemblyName": "BikeServiceCentre",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Items"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BikeServiceCentre.Pages.Items"
-        }
-      },
-      {
-        "HashCode": -731461849,
-        "Kind": "Components.Component",
-        "Name": "BikeServiceCentre.Pages.Items",
-        "AssemblyName": "BikeServiceCentre",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BikeServiceCentre.Pages.Items"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BikeServiceCentre.Pages.Items",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 2079657694,
         "Kind": "Components.Component",
         "Name": "BikeServiceCentre.Pages.Login",
@@ -272,35 +239,68 @@
         }
       },
       {
-        "HashCode": 1817752710,
+        "HashCode": 167174876,
         "Kind": "Components.Component",
-        "Name": "BikeServiceCentre.Main",
+        "Name": "BikeServiceCentre.Pages.Remove",
         "AssemblyName": "BikeServiceCentre",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Main"
+            "TagName": "Remove"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BikeServiceCentre.Main"
+          "Common.TypeName": "BikeServiceCentre.Pages.Remove"
         }
       },
       {
-        "HashCode": -1770793228,
+        "HashCode": 729553366,
         "Kind": "Components.Component",
-        "Name": "BikeServiceCentre.Main",
+        "Name": "BikeServiceCentre.Pages.Remove",
         "AssemblyName": "BikeServiceCentre",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BikeServiceCentre.Main"
+            "TagName": "BikeServiceCentre.Pages.Remove"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BikeServiceCentre.Main",
+          "Common.TypeName": "BikeServiceCentre.Pages.Remove",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -259808774,
+        "Kind": "Components.Component",
+        "Name": "BikeServiceCentre.Pages.Items",
+        "AssemblyName": "BikeServiceCentre",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Items"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BikeServiceCentre.Pages.Items"
+        }
+      },
+      {
+        "HashCode": -731461849,
+        "Kind": "Components.Component",
+        "Name": "BikeServiceCentre.Pages.Items",
+        "AssemblyName": "BikeServiceCentre",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BikeServiceCentre.Pages.Items"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BikeServiceCentre.Pages.Items",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
